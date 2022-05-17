@@ -1,0 +1,59 @@
+entrega: 1ª fase - 21 maio
+
+. prototipo (figma)
+. requisitos (vp)
+. modelo do dominio (vp)
+. diagramas de casos de uso (vp)
+___________________________________________________________________
+gestão de veiculos: 
+    - escolher sede/filial
+        - 1 sede (max de 4500 viaturas)
+        - 18 filiais (max de 100 viaturas, em todas as capitais de distrito de Portugal Continental)
+
+    - transportar veiculo
+    - ver veiculos por sede/filial
+    - ver veiculos individualmente:
+        categorizar por marca e ordem alfabetica / preço
+        matricula, marca, modelo, anterior dono, nº de donos, caracteristicas do veiculo
+
+gestão de peças:
+    - escolher local(sede, filial)
+    - ver stock de consumiveis/peças
+    - requisitar consumiveis/peças
+
+gestão de eventos:
+    - registar eventos (nome,local,data de inicio - data de fim)
+    - escolher veiculos para exposição (sistema de selecao), max. 100
+    - no fim da feira selecionar se os veiculos sao enviados para a sede ou para outra feira
+
+gestão de transações:
+    - ver transações por sede/filial (filtros: mes/ano/marca/modelo)
+    - comprar carros (preço depende do estado do carro * valor no VolanteSic)
+    - vender carros (opcao de valor monetario + carro usado)
+
+    - detalhes das transicoes: 
+        - detalhes do carro + problemas com o carro + local a enviar (sede caso o problema nao consiga ser resolvido na filial)
+        - detalhes do cliente
+    
+    venda -> sede -> oficina -> montra da filial
+
+gestão de clientes:
+    - visualizar clientes de transições efetuadas
+    - visualizar historico de cada cliente
+    - visualizar detalhes de clientes
+
+gestão de estatisticas:
+    - marcas e modelos mais vendidos ao longo do tempo no total e por filial
+    - melhores clientes
+    - melhores filiais e feiras
+    - modelos e marcas que sofreram mais investimento a nivel de peças e reparações
+
+
+
+
+
+
+
+
+
+

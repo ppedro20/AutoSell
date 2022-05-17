@@ -1,0 +1,39 @@
+Requisitos Nao Funcionais:
+
+ - Entregar a primeira parte do projeto dia 21 de Maio
+ - Entregar a segunda parte do projeto dia 
+ - Projeto feito por 3 pessoas
+
+Requisitos Funcionais:
+
+ - escolher filial/sede
+ - ver veiculos por sede/filial
+ - ver veiculos individualmente
+
+ - ver stock de consumiveis/peças por filial/sede
+ - requisitar consumiveis/peças
+ 
+ - adicionar eventos
+ - adicionar carros a eventos
+ - remover Eventos
+ - ver eventos atuais
+ - ver eventos passados
+ - ver eventos futuros
+--
+- Adicionar Botao LimparCamposFormulario
+- Janela de Erro caso haja algo mal no formulario de adicionar evento seja mal preenchido
+- Janela de Bem Sucedido caso o formulario de adicionar um evento seja bem preenchido
+ 
+ - ver transações por sede/filial
+ - comprar carros aos clientes
+ - vender carros
+ - ver detalhes das transicoes
+ 
+ - visualizar clientes de transicoes efetuadas
+ - visualizar historico de cada cliente
+ - visualizar detalhes de clientes
+
+ - visualizar marcas e modelos mais vendidos por tempo/filial
+ - visualizar melhores clientes
+ - visualizar melhores feiras por filiais
+ - visualizar investimento por modelos e marcas
