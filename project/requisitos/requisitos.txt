@@ -1,0 +1,56 @@
+Requisitos Nao Funcionais:
+
+ - Entregar a primeira parte do projeto dia 21 de Maio
+ - Entregar a segunda parte do projeto dia 
+ - Projeto feito por 3 pessoas
+
+Requisitos Funcionais:
+ 
+ - adicionar eventos 
+ - remover eventos
+ - ver eventos ativos
+ - ver eventos passados
+ - ver eventos futuros
+ - nos eventos passados decidir o local a enviar os veiculos
+ - aviso de erro caso o local decidido nao esteja disponivel
+ - adicionar veiculos a eventos 
+ - aviso de erro caso os parametros do evento criado estejam incorretos
+ - aviso caso o evento seja adicionado com sucesso
+ - aviso quando o evento é removido com sucesso
+ - aviso caso os veiculos sejam enviados para o local definido apos o evento com sucesso
+ - aviso caso o veiculo seja adicionado com sucesso ao evento
+
+ - ver clientes
+ - ver detalhes dos clientes
+ - ver historico de transicoes dos clientes
+
+ - ver veiculos de cada filial/sede
+ - ver detalhes de cada veiculo
+ - poder editar os detalhes de cada veiculo
+ - poder enviar veiculos para outras filiais/sede
+ - aviso de erro caso os detalhes editados nao estejam de acordo com as normas de cada detalhes
+ - aviso de erro caso o local colocado para enviar nao tenha espaço para mais viaturas
+ - cada filial so pode ter no maximo 100 viaturas
+ - a sede so pode ter no maximo 4500 viaturas
+ - aviso caso os detalhes do veiculo sejam editados com sucesso
+ - aviso caso o veiculo seja enviado para o novo destino (entre filiais) com sucesso
+
+
+ - ver historico de transações de cada filial
+ - ver detalhes de cada transação
+ - ver detalhes do veiculo da transicao
+ - ver detalhes do cliente da transicao
+ - poder editar os detalhes de cada transacao
+ - avisos de erro caso ...
+
+ - ver stock de peças nas filiais ou sede
+ - requisitar peças a outras filiais/sede
+ - definir um minimo de quantidade de peças em cada filial/sede
+ - aviso de erro caso no requesito de peças a filial fique com peças a menos do que o limite imposto
+ - aviso caso as peças sejam requisitadas com sucesso
+
+ - ver marcas mais vendidas por tempo
+ - ver melhores clientes
+ - ver melhores eventos
+ - ver maiores investimentos por marca
+ - ver melhores filiais por tempo
